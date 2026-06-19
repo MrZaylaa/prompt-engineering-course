@@ -1,4 +1,26 @@
 # prompt-engineering-course
+
+
+## Quick Setup
+
+
+1. Fork this repo to your own GitHub account
+   
+2. Download the ZIP (green Code button → Download ZIP)
+   
+3. Rename .env.example to .env and add your API keys
+   
+4. Install all dependencies by running:
+
+pip install -r requirements.txt
+
+
+
+
+
+
+
+
 APIs (get your free keys first)
 
 Anthropic Claude API — console.anthropic.com
