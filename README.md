@@ -1,7 +1,7 @@
 # prompt-engineering-course
 
 
-## Quick Setup
+# Quick Setup
 
 
 1. Fork this repo to your own GitHub account
@@ -19,16 +19,16 @@ pip install -r requirements.txt
 
 
 
-## Files and Data Needed
+# Files and Data Needed
 
-# APIs (get your free keys first)
+## APIs (get your free keys first)
 
 Anthropic Claude API — console.anthropic.com
 
 OpenAI API — platform.openai.com
 
 
-##Datasets
+## Datasets
 
 SST-2 Sentiment — huggingface.co/datasets/sst2
 
@@ -59,7 +59,7 @@ USPTO Patents — patentsview.org/download
 
 
 
-##Papers (PDF downloads)
+## Papers (PDF downloads)
 
 Attention Is All You Need — arxiv.org/abs/1706.03762
 
@@ -79,7 +79,7 @@ RAG Paper — arxiv.org/abs/2005.11401
 
 
 
-##Python Libraries (all free via PyPI)
+## Python Libraries (all free via PyPI)
 
 openai — pypi.org/project/openai
 
@@ -119,7 +119,7 @@ matplotlib — pypi.org/project/matplotlib
 
 
 
-##Tools (free to install)
+## Tools (free to install)
 
 PromptFoo — promptfoo.dev
 
