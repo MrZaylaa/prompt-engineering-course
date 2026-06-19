@@ -21,12 +21,11 @@ pip install -r requirements.txt
 
 ## Files and Data Needed
 
-APIs (get your free keys first)
+#APIs (get your free keys first)
 
 Anthropic Claude API — console.anthropic.com
 
 OpenAI API — platform.openai.com
-
 
 
 Datasets
